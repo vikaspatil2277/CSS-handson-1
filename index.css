@@ -27,7 +27,8 @@ font-weight: bold;
     letter-spacing: 3px;
 
 }
-.text5 { 
+#text5 { 
+    text-decoration: none;
     color: red;
     background-color: yellow;
     font-weight: bold;
