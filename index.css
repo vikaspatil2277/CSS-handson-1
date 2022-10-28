@@ -1,0 +1,44 @@
+
+.h3 {
+    color: red;
+    font-style: italic;
+}
+
+.text1
+ { 
+    text-decoration: line-through;
+font-weight: bold;
+}
+
+.text2 
+{
+    background-color: yellow;
+    font-weight: bold;
+
+}
+
+.text3 {
+    text-decoration: underline;
+
+}
+.text4 {
+    background-color: yellow;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+}
+.text5 { 
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.external {
+    color:brown;
+    letter-spacing: 3px;
+}
+p {
+    color:brown
+
+}
